@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+<h1 align="center">Bug King</h1>
 
-<h1 align="center">Web Guru</h1>
-
-<div color="green" align="center"> Full-Stack web developer </div>
+<div color="green" align="center"> Senior Frontend Developer </div>
 
 ---
 
@@ -60,7 +59,6 @@
 </td></tr></table>
 
 <br/>
-
 
 ## Github Stats
 
